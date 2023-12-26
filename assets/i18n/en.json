@@ -1,6 +1,10 @@
 {
   "CLAIM_CHILD_BENEFIT": "Claim Child Benefit",
-  "BEGIN_NEW_CHB_CLAIM" : "Begin Child Benefit claim",
+  "CLAIM_INCOMPLETE": "Claim incomplete",
+  "YOU_HAVE_COMPLETED": "You have completed ",
+  "OF_4_SECTIONS": "of 4 sections",
+
+  "BEGIN_NEW_CHB_CLAIM": "Begin Child Benefit claim",
   "USE_THIS_FORM_TO_CLAIM": "Use this form to claim Child Benefit if you or your partner are responsible for a child who is under 16, or under 20 if they are in ",
   "USE_THIS_FORM_TO_CLAIM_CONTD": "approved education or training",
   "WHO_CAN_APPLY": "Who can apply",
@@ -100,11 +104,11 @@
   "Month": "Month",
   "Year": "Year",
   "Close": "Close",
-  "OPENS_IN_NEW_TAB" : "(opens in new tab)",
-  "SIGN_OUT_MESSAGE":"this sign out message",
+  "OPENS_IN_NEW_TAB": "(opens in new tab)",
+  "SIGN_OUT_MESSAGE": "this sign out message",
   "SKIP_TO_MAIN": "Skip to main content",
-  "BETA":"beta",
-  "NEW_SERVICE":"This is a new service",
+  "BETA": "beta",
+  "NEW_SERVICE": "This is a new service",
   "FOR": " for ",
   "NEW_CHILD": "a new child",
   "CHILDS_NAME": "child's name",
@@ -124,11 +128,11 @@
   "COPYRIGHT": "© Crown copyright",
   "SEVEN_DAYS": "7 days",
   "SESSION": "Session",
-  "COOKIES_PAGE_P1" : "Cookies are small files saved on your phone, tablet or computer when you visit a website.",
-  "COOKIES_PAGE_P2" :  "We use the following cookies to make this site works and collect information about how you use our service.",
-  "ESSENTIAL_COOKIES" : "Essential Cookies",
-  "ESSENTIAL_COOKIES_P1" : "Essential cookies keep your information secure whilst you use this service. We do not need to ask permission to use them.",
-  "COOKIES_PAGE_P3" : "*A table will be provided to name and describe each cookie*",
+  "COOKIES_PAGE_P1": "Cookies are small files saved on your phone, tablet or computer when you visit a website.",
+  "COOKIES_PAGE_P2": "We use the following cookies to make this site works and collect information about how you use our service.",
+  "ESSENTIAL_COOKIES": "Essential Cookies",
+  "ESSENTIAL_COOKIES_P1": "Essential cookies keep your information secure whilst you use this service. We do not need to ask permission to use them.",
+  "COOKIES_PAGE_P3": "*A table will be provided to name and describe each cookie*",
   "COOKIE_NAME": "Name",
   "COOKIE_PURPOSE": "Purpose",
   "COOKIE_EXPIRES": "Expires",
@@ -260,7 +264,8 @@
   "COME_BACK_LATER": "You can try again or come back later",
   "RETURN_TO_THE_HOMEPAGE": "Return to the homepage",
   "SHUTTER_SERVICE_UNAVAILABLE": "Sorry, the service is unavailable",
-  "SHUTTER_USE_SERVICE_LATER_MESSAGE": "You will be able to use the service later."
- 
-
+  "SHUTTER_USE_SERVICE_LATER_MESSAGE": "You will be able to use the service later.",
+  "PORTAL_WARNING_TEXT": "We saved your progress on",
+  "PORTAL_WARNING_TEXT2": "and will store your information for 28 days.",
+  "PORTAL_NOTIFICATION_BANNER_CONTENT": "We saved your progress and will store your information for 28 days."
 }
